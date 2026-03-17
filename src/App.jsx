@@ -159,7 +159,7 @@ Not joking par tu jab saath main hoti hai na toh saara tension gayab ho jaata ha
         </button>
         <MessageCard isActive={currentPage === 3} />
         <button className="page-nav-btn" onClick={() => goToPage(4)}>
-          📸 Let's have a look on you
+          📸 Our Chaotic Moments
         </button>
       </div>
 
