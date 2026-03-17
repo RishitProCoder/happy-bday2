@@ -13,8 +13,9 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Happy birthday diyaaa buddhi ho rahi tu!!! Now Idk where to start from u are the person I feel comfortable with all the bullying,teasing,that masti and those cute moments are irreplaceable and I'm really thankful that I found someone who really is a all in one package, I'm really grateful for the bond we have developed over the years and I really wish maturity never hits u because I are perfect just the way you are rn
-Luv u diyaaa❤️❤️`;
+  const message = `Happy birthday diyaaa buddhi ho rahi tu!!! Now Idk where to start from u are the person I feel comfortable with all the bullying,teasing,that masti and those cute moments are irreplaceable and I'm really thankful that I found someone who really is a all in one package, I'm really grateful for the bond we have developed over the years and I really wish maturity never hits u because I are perfect just the way you are rn. And I'll forever remember the dosa's saija aunty made. Don't you think it's crazy how fast we grew closer from doing introduction to knowing each detail about each other. The friendship u, me(sanvi) and reva developed over years can't be taken for granted it's really a great one... Bhaiii i really love those random movie weekends in your house ik ik i bully and roast you sometimes lekin yaar Dil pe mat le it's my love language!!!!😭😭. Aur abhi mujhe yakin nahi ho raha u r almost in your teens we really are getting older bhaiii. Chal bohot emotional hogaya abhi apne birthday pe focus kar aur hume party Dene per😽😋🫠
+Love youu sajaniyaa🧿💅🏻💗
+~teri sanvii`;
 
   // Handle page transitions
   useEffect(() => {
